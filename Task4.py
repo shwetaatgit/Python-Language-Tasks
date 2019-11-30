@@ -1,0 +1,5 @@
+a = str(input("Write input here: "))
+upper = a.upper()
+lower = a.lower()
+print(upper)
+print(lower)
